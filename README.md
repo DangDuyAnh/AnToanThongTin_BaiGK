@@ -9,7 +9,7 @@ Hệ thống có thể được chạy trên web tại địa chỉ locallhost/q
 - Khởi động XAMPP.
 - Truy cập địa chỉ locallhost/qrshares/index.php trên trình duyệt.
 
-Giao diện màn hình
+##### Giao diện màn hình
 <br/><br/>
 <img src="img/image1.png" width = "540" height = "380" marginTop = "20">
 <br/><br/>
